@@ -19,18 +19,15 @@ var a_to_ve="";var a_to_vf=new Array();var a_to_vg=0;a_to_ve=document.getElement
 j++;}
 if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
-var x=Math.floor((Math.random()*10)+ 1);
+var x=Math.floor((Math.random()*7)+ 1);
 var xxx=null;
-if(x=="1"){xxx="/2019/05/why-you-need-manufacturing-production.html"}
-if(x=="2"){xxx="/2019/05/free-manufacturing-software.html"}
-if(x=="3"){xxx="/2019/05/tips-to-choose-accounting-software.html"}
-if(x=="4"){xxx="/2019/05/what-is-manufacturing-execution-software.html"}
-if(x=="5"){xxx="/2019/05/important-software-for-manufacturing.html"}
-if(x=="6"){xxx="/2019/05/some-of-best-manufacturing-software-for.html"}
-if(x=="7"){xxx="/2019/05/erp-system-for-small-business-benefits.html"}
-if(x=="8"){xxx="/2019/05/erp-software-for-small-business-signs.html"}
-if(x=="9"){xxx="/2019/05/what-to-know-about-enterprise-resource.html"}
-if(x=="10"){xxx="/2019/05/the-amazing-things-your-company-will.html"}a_to_ve[i].href="https://erp-software-2019.avvy.online"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="/gJgNgIGsSt?amp=1"}
+if(x=="2"){xxx="/2fKV9ceKzx?amp=1"}
+if(x=="3"){xxx="/BRYgwCHdZW?amp=1"}
+if(x=="4"){xxx="/OK1xQZNLYd?amp=1"}
+if(x=="5"){xxx="/inIpJHAmtg?amp=1"}
+if(x=="6"){xxx="/1f1UwJ5FJE?amp=1"}
+if(x=="7"){xxx="/Za2dqLixDX?amp=1"}a_to_ve[i].href="https://t.co"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
